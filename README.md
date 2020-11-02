@@ -1,3 +1,3 @@
 # Task-4
-Infrastructre setup
+Infrastructure setup
 Packer built Linux Nodes with Prometheus and Grafana configured on separate subnets
