@@ -1,5 +1,4 @@
 #! /bin/bash
-sudo yum update
 sudo yum install git java docker -y
 sudo service docker start
 sudo usermod -aG docker ec2-user
